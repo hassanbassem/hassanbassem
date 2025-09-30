@@ -12,10 +12,10 @@ I'm a self-taught developer who loves diving into web technologies. Although cur
 
 ## Top Projects
 
-- [Cafe Website](https://github.com/hassanbassem/cafe-website) - A modern cafe website built with HTML and CSS. Languages: HTML, CSS, JS
-- [Portfolio Website](https://github.com/hassanbassem/portfolio-website) - My personal portfolio showcasing my work and skills. Languages: HTML, CSS
-- [Product Page](https://github.com/hassanbassem/product-page) - A responsive product page template. Languages: HTML, CSS, JS
-- [Cinema Ticket Booking](https://github.com/hassanbassem/cinema-ticket-booking) - A web application for booking cinema tickets. Languages: HTML, CSS, JS, C#
+- [Cafe Website](https://github.com/hassanbassem/cafe-website) - A modern cafe website built with HTML and CSS. | Languages: HTML, CSS, JS
+- [Portfolio Website](https://github.com/hassanbassem/portfolio-website) - My personal portfolio showcasing my work and skills. | Languages: HTML, CSS
+- [Product Page](https://github.com/hassanbassem/product-page) - A responsive product page template. | Languages: HTML, CSS, JS
+- [Cinema Ticket Booking](https://github.com/hassanbassem/cinema-ticket-booking) - A web application for booking cinema tickets. | Languages: HTML, CSS, JS, C#
 
 ## GitHub Stats
 
